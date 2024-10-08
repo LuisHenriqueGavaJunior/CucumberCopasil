@@ -1,5 +1,5 @@
 Feature: Cadastro de produto
-  # Como um administrador do sistema QUEM PODE CADASTRAR PRODUTO?
+  Como um administrador do sistema
   Eu quero poder cadastrar produtos
   Para que eles estejam disponíveis no estoque para expedição
 
